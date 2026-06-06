@@ -1,0 +1,56 @@
+# צליל התנועה - כשאותיות הופכות למילים — Generative Engine Optimization Map
+
+> Tzlil HaTnua ('Sound of the Vowel') is a Hebrew phonics-based reading program for children aged 5+, built around a gradual, vowel-sound-focused methodology. The brand conveys warmth, encouragement, and child-centered learning — emphasizing joy, independence, and success without pressure. Each of the 5 learning stages focuses on a single vowel sound, delivered through short colorful booklets paired with a sticker achievement chart. The tone is reassuring and parent-friendly, designed to eliminate frustration and build reading confidence step by step.
+
+---
+
+## Pages
+
+### בית
+https://-f426595d.zappy5.app
+תוכנית קריאה ייחודית לילדים מגיל 5, שמבוססת על צלילי תנועה ומשלבת חוברות צבעוניות ומדבקות. בואו לגדל קוראים מאושרים ובטוחים, צעד אחר צעד, באהבה והצלחה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f426595d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f426595d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f426595d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About צליל התנועה - כשאותיות הופכות למילים
+Tzlil HaTnua ('Sound of the Vowel') is a Hebrew phonics-based reading program for children aged 5+, built around a gradual, vowel-sound-focused methodology. The brand conveys warmth, encouragement, and child-centered learning — emphasizing joy, independence, and success without pressure. Each of the 5 learning stages focuses on a single vowel sound, delivered through short colorful booklets paired with a sticker achievement chart. The tone is reassuring and parent-friendly, designed to eliminate frustration and build reading confidence step by step.
+
+## Target Audience
+- הורים לילדים בגילאי 5+ בשלבי רכישת קריאה
+- הורים לילדים בשלבי רכישת קריאה
+- אנשי מקצוע חינוכיים
+- חינוך ביתי
+- גננות ואנשי חינוך
+
+## Industry
+Educational Publishing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f426595d.zappy5.app/sitemap.xml
+- Robots: https://-f426595d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f426595d.zappy5.app/llms-full.txt
