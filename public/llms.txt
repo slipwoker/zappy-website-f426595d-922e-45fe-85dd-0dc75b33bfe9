@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://-f426595d.zappy5.app
+https://example.com
 תוכנית קריאה ייחודית לילדים מגיל 5, שמבוססת על צלילי תנועה ומשלבת חוברות צבעוניות ומדבקות. בואו לגדל קוראים מאושרים ובטוחים, צעד אחר צעד, באהבה והצלחה!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-f426595d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-f426595d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-f426595d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,6 +51,6 @@ Educational Publishing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-f426595d.zappy5.app/sitemap.xml
-- Robots: https://-f426595d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-f426595d.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
