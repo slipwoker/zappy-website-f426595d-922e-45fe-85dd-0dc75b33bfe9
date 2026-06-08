@@ -2,13 +2,13 @@
 
 Tzlil HaTnua ('Sound of the Vowel') is a Hebrew phonics-based reading program for children aged 5+, built around a gradual, vowel-sound-focused methodology. The brand conveys warmth, encouragement, and child-centered learning — emphasizing joy, independence, and success without pressure. Each of the 5 learning stages focuses on a single vowel sound, delivered through short colorful booklets paired with a sticker achievement chart. The tone is reassuring and parent-friendly, designed to eliminate frustration and build reading confidence step by step.
 
-Source: https://example.com
+Source: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app
 
 ---
 
 ## גלו עולם קסום של קריאה — צליל התנועה - כשאותיות הופכות למילים
 
-URL: https://example.com
+URL: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app
 Description: תוכנית קריאה ייחודית לילדים מגיל 5, שמבוססת על צלילי תנועה ומשלבת חוברות צבעוניות ומדבקות. בואו לגדל קוראים מאושרים ובטוחים, צעד אחר צעד, באהבה והצלחה!
 
 גלו עולם קסום של קריאה — צליל התנועה - כשאותיות הופכות למילים
@@ -516,7 +516,7 @@ Your browser does not support the video tag.
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -779,7 +779,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1051,7 +1051,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
